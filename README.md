@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kellylamkelly/kellylamkelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Kelly 👋
+
+- ⚡ I’m interested in Full-Stack Dev, Frontend Dev, or Software Engineering!
+- 🌱 I’m currently learning Computer Science at Youngstown State University!
+- 🔭 I'm open to full-time opportunities after graduation (Fall 2022) to further my knowledge!
+- 📫 Feel free to connect and reach out via [LinkedIn](https://linkedin.com/in/kellylamkelly) or klam@student.ysu.edu!
