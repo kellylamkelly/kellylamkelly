@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Kelly 👋
 
-- ⚡ I’m interested in Full-Stack Dev, Frontend Dev, or Software Engineering!
+- ⚡ I’m a Full-Stack Software Engineer with a focus in Front-end Development!
 - 🌱 I’m currently studying Computer Science at Youngstown State University
-- 🔭 I'm open to full-time opportunities after graduation (Fall 2022) to further my knowledge!
+- 🔭 I'm open to full-time opportunities after graduation (December 2022) to further my knowledge!
 - 📫 Feel free to connect and reach out via [LinkedIn](https://linkedin.com/in/kellylamkelly) or klam@student.ysu.edu :)
