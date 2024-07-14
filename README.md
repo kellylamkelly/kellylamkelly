@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Kelly 👋
 
-- ⚡ I’m a Full-Stack Software Engineer with a focus in Front-end Development!
+- ⚡ I’m a Full Stack Engineer with a focus in front end development!
 - 🌱 I’m currently studying Computer Science at Youngstown State University
 - 📫 Feel free to connect and reach out via [LinkedIn](https://linkedin.com/in/kellylamkelly) or klam@student.ysu.edu :)
