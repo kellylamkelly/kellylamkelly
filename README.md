@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ### Hi, I'm Kelly 👋
 
-- ⚡ I’m a Full Stack Engineer with a focus in front end development!
-- 🌱 I’m currently studying Computer Science at Youngstown State University
-- 📫 Feel free to connect and reach out via [LinkedIn](https://linkedin.com/in/kellylamkelly) or klam@student.ysu.edu :)
+- ⚡ I’m a full stack engineer with a focus in front end development!
+- 📫 Feel free to connect and reach out via [LinkedIn](https://linkedin.com/in/kellylamkelly) or 2020lamk@gmail.com :)
